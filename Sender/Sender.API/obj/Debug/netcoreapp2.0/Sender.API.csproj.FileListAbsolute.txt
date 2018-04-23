@@ -1,0 +1,11 @@
+C:\Users\oussama.el.aazmani\source\repos\Sender\Sender.API\bin\Debug\netcoreapp2.0\Sender.API.deps.json
+C:\Users\oussama.el.aazmani\source\repos\Sender\Sender.API\bin\Debug\netcoreapp2.0\Sender.API.runtimeconfig.json
+C:\Users\oussama.el.aazmani\source\repos\Sender\Sender.API\bin\Debug\netcoreapp2.0\Sender.API.runtimeconfig.dev.json
+C:\Users\oussama.el.aazmani\source\repos\Sender\Sender.API\bin\Debug\netcoreapp2.0\Sender.API.dll
+C:\Users\oussama.el.aazmani\source\repos\Sender\Sender.API\bin\Debug\netcoreapp2.0\Sender.API.pdb
+C:\Users\oussama.el.aazmani\source\repos\Sender\Sender.API\obj\Debug\netcoreapp2.0\Sender.API.csprojResolveAssemblyReference.cache
+C:\Users\oussama.el.aazmani\source\repos\Sender\Sender.API\obj\Debug\netcoreapp2.0\Sender.API.csproj.CoreCompileInputs.cache
+C:\Users\oussama.el.aazmani\source\repos\Sender\Sender.API\obj\Debug\netcoreapp2.0\Sender.API.AssemblyInfoInputs.cache
+C:\Users\oussama.el.aazmani\source\repos\Sender\Sender.API\obj\Debug\netcoreapp2.0\Sender.API.AssemblyInfo.cs
+C:\Users\oussama.el.aazmani\source\repos\Sender\Sender.API\obj\Debug\netcoreapp2.0\Sender.API.dll
+C:\Users\oussama.el.aazmani\source\repos\Sender\Sender.API\obj\Debug\netcoreapp2.0\Sender.API.pdb
